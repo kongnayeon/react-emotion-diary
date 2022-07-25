@@ -12,8 +12,7 @@
     "react-scripts": "5.0.1",
     "redux": "^4.2.0",
     "serve": "^14.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "http://kongnayon.github.io/WEB/emotion-diary"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,6 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "http://kongnayon.github.io/WEB/",
   "eslintConfig": {
     "extends": [
       "react-app",
