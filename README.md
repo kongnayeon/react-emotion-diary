@@ -1,1 +1,1 @@
-일기짱 https://kongnayeon.github.io/react-emotion-diary/
+일기를 써 보세용... https://kongnayeon.github.io/react-emotion-diary/
